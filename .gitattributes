@@ -1,4 +1,4 @@
-# DEFAULT LINE ENDING
+5# DEFAULT LINE ENDING
 * text eol=lf
 
 # FILES TO NORMALIZE
@@ -30,5 +30,8 @@
 *.woff2 binary
 
 # COMPRESSED
-*.zip binary
+*.7z binary
+*.tar binary
+*.tar.gz binary
 *.rar binary
+*.zip binary
